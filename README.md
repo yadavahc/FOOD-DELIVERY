@@ -8,13 +8,8 @@ Frontend Website:https://food-delivery-frontend-heby.onrender.com
 Admin Panel: https://food-delivery-admin-qg89.onrender.com/
 
 
-1.CLONE THE REPOSITORY
 
-git clone <repositorylink>
-
-cd <repository-folder> 
-
-2.FRONTEND
+1.FRONTEND
 
 cd frontend
 
@@ -22,7 +17,7 @@ npm install
 
 npm run dev
 
-3.ADMIN
+2.ADMIN
 
 cd admin
 
@@ -30,7 +25,7 @@ npm install
 
 npm run dev
 
-4.BACKEND
+3.BACKEND
 
 cd backend
 
