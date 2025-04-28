@@ -11,26 +11,14 @@ Admin Panel: https://food-delivery-admin-qg89.onrender.com/
 
 1.FRONTEND
 
-cd frontend
-
-npm install
-
-npm run dev
+cd frontend>>npm install>>npm run dev
 
 2.ADMIN
 
-cd admin
-
-npm install
-
-npm run dev
+cd admin>>npm install>>npm run dev
 
 3.BACKEND
 
-cd backend
-
-npm install
-
-npm run dev
+cd backend>>npm install>>npm run dev
 
 
