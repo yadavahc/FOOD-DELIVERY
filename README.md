@@ -12,7 +12,7 @@ Admin Panel: https://food-delivery-admin-qg89.onrender.com/
 
 git clone <repository-link>
 
-cd <repository-folder>
+cd <repository-folder> 
 
 2.FRONTEND
 
