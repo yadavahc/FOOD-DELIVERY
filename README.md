@@ -10,7 +10,7 @@ Admin Panel: https://food-delivery-admin-qg89.onrender.com/
 
 1.CLONE THE REPOSITORY
 
-git clone <repository-link>
+git clone <repositorylink>
 
 cd <repository-folder> 
 
