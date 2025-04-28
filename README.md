@@ -1,4 +1,4 @@
-Tomato is a food delivery platform developed by me
+Tomato is a food delivery platform developed by me...
 Unlike traditional apps, Tomato is focused on providing a seamless, affordable, and quick food delivery experience.
 
 LIVE DEMO:
